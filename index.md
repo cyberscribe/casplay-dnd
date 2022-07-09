@@ -115,6 +115,8 @@ Treasure is usually divided up equally at the end of the session, and posession 
 ## Communication
 We typically communicate between sessions via WhatsApp (request the link from the DM if needed). If you have questions about anything not covered, contact the group or the DM there.
 
+We also have a [Discord server](https://discord.gg/x7Cgn2QJ) if you're into that kind of thing.
+
 ---
 
 [^1]: If you're curious, CasPlay is based on a simplifed version of [west marches](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/).
