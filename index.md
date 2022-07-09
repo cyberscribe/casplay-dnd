@@ -28,7 +28,7 @@ Levelling up is done by the number of sessions your character has played. The nu
 | 11-15 | 6        |
 | 16-20 | 8        |
 
-So, for example, to level up to level 4 requires 2 sessions of play, whereas to level up to level 3 only requires one.
+So, for example, to level up to level 4 requires 2 sessions of play, whereas to level up to level 3 only requires one. Keep track of your own character progression and level up as appropriate between sessions.
 
 ## Character levels and tiers
 You can continue to play the same character or bring a new character to a session at any time, starting at level one. Once all players have at least one character that has advanced to another "tier" of gameplay, all new and existing characters will advance to at least the lowest level of that tier.
