@@ -22,7 +22,7 @@ Levelling up is done by the number of sessions your character has played. The nu
 
 | Level | Sessions |
 |-------|----------|
-| 1-3   | 1        |
+| 2-3   | 1        |
 | 4-5   | 2        |
 | 6-10  | 4        |
 | 11-15 | 6        |
