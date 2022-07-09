@@ -31,7 +31,9 @@ Levelling up is done by the number of sessions your character has played. The nu
 So, for example, to level up to level 4 requires 2 sessions of play, whereas to level up to level 3 only requires one. Keep track of your own character progression and level up as appropriate between sessions.
 
 ## Character levels and tiers
-You can continue to play the same character or bring a new character to a session at any time, starting at level one. Once all players have at least one character that has advanced to another "tier" of gameplay, all new and existing characters will advance to at least the lowest level of that tier.
+You can continue to play the same character or bring a new character to a session at any time, starting at level one. 
+
+At some point, usually once all players have at least one character that has advanced to another "tier" of gameplay, the DM will decide that all new and existing characters will advance to at least the lowest level of that tier.
 
 | Level | Tier     |
 |-------|----------|
@@ -40,7 +42,9 @@ You can continue to play the same character or bring a new character to a sessio
 | 11-15 | 3        |
 | 16-20 | 4        |
 
-For example, once all players have a character of level six or above, all new characters and existing characters below level 6 will advance to level 6. This just ensures that we don't have characters of wildly differing levels joining a game.
+For example, once all players have a character of level six or above, all new characters and existing characters below level 6 will advance to level 6. The DM will make the call as to when the next tier has been reached in the CasPlay series.
+
+This ensures that we don't have characters of wildly differing levels joining a game.
 
 ## Relationships
 
