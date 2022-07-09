@@ -1,6 +1,6 @@
 # Welcome to CasPlay 2.0
 
-This site contains all the information you need to play, as well as a summary of [characters.md](characters) and [plot.md](plot points) encountered during play.
+This site contains all the information you need to play, as well as a summary of [characters](characters.md) and [plot points](plot.md) encountered during play.
 
 ## What is it?
 
