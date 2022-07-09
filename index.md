@@ -1,6 +1,6 @@
 # Welcome to CasPlay 2.0
 
-This site contains all the information you need to play, as well as a summary of [npcs](npcs.md) and [plot points](plot.md) encountered during play.
+This site contains all the information you need to play, as well as a summary of [npcs](npcs.md) and [plot points](plot.md) encountered during play.c
 
 ## What is it?
 
@@ -44,26 +44,26 @@ For example, once all players have a character of level six or above, all new ch
 
 When a new character starts a session, their player has the option to roll a die to determine a random other player's character (e.g. 1d4 if there are four other players) and then roll on 1d20 for a suggested relationship:
 
-1.  Survivors of an ill-fated expedition party
-2.  Adopted siblings
-3.  Members of a secret society
-4.  Former soldiers/sailors/mercenaries together
-5.  One of you hid the other from an Orc warband
-6.  Grew up together in the same village
-7.  Lost a close mutual friend to Orcs
-8.  Former solders in a losing war
-9.  Former members of a special guild
-10.  On the run together from pursuers
-11.  Once shared a prison cell
-12.  Mutual keepers of an terrible secret
-13.  Survivors of a small community destroyed by Orcs
-14.  Former enemies that now work together
-15.  Former employees from the same defunct business
-16.  Former students of beloved teacher
-17.  Escaped together from an evil cult
-18.  Friendly hunting/gambling/jousting rivals
-19.  Worked in the mines together
-20.  Failed protectors of a lost artefact
+ 1. Survivors of an ill-fated expedition party
+ 2. Adopted siblings
+ 3. Members of a secret society
+ 4. Former soldiers/sailors/mercenaries together
+ 5. One of you hid the other from an Orc warband
+ 6. Grew up together in the same village
+ 7. Lost a close mutual friend to Orcs
+ 8. Former solders in a losing war
+ 9. Former members of a special guild
+ 10. On the run together from pursuers
+ 11. Once shared a prison cell
+ 12. Mutual keepers of an terrible secret
+ 13. Survivors of a small community destroyed by Orcs
+ 14. Former enemies that now work together
+ 15. Former employees from the same defunct business
+ 16. Former students of beloved teacher
+ 17. Escaped together from an evil cult
+ 18. Friendly hunting/gambling/jousting rivals
+ 19. Worked in the mines together
+ 20. Failed protectors of a lost artefact
 
 Use this as a loose starting point to then agree on some existing relationship between the two characters. This creates some cohesion, and might explain why this particular party finds themselves on the adventure together.
 
