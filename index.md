@@ -1,6 +1,6 @@
 # Welcome to CasPlay 2.0
 
-This site contains all the information you need to play, as well as a summary of [characters](characters.md) and [plot points](plot.md) encountered during play.
+This site contains all the information you need to play, as well as a summary of [npcs](npcs.md) and [plot points](plot.md) encountered during play.
 
 ## What is it?
 
@@ -111,6 +111,11 @@ If you're happy to let them go, we may find a way to incorporate their memory in
 
 ## Treasure
 Treasure is usually divided up equally at the end of the session, and posession of magic items mutually agreed. 
+
+## Communication
+We typically communicate between sessions via WhatsApp (request the link from the DM if needed). If you have questions about anything not covered, contact the group or the DM there.
+
+---
 
 [^1]: If you're curious, CasPlay is based on a simplifed version of [west marches](https://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/).
 [^2]: The [CasPlay 1.0 campaign](https://www.dndbeyond.com/campaigns/561817) has been archived
