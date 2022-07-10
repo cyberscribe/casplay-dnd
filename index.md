@@ -12,7 +12,7 @@ We put in our availability via Doodle, and then the DM decides when to have a se
 If more than six people can/want to play on a particular date, whoever doesn't play that wanted to play gets priority next time. Also, players with very limited availability should be given some priority. In short, we work it out--but six is the max. for a game.
 
 ## Character Generation
-The easiest way to make a character is to use the [D&D Beyond Character Builder](https://www.dndbeyond.com/characters/builder). Please use standard array or point buy rather than rolling for stats. You can use material from the PHB and any supplemental books as desired. Aim for an interesting character that you will be excited to play.
+The easiest way to make a character is to use the [D&D Beyond Character Builder](https://www.dndbeyond.com/characters/builder). Please use standard array or point buy rather than rolling for stats. You can use material from the PHB, any supplemental books published by WotC as desired. Please, no homebrew. It's just too hard to keep up with and ensure balance. Aim for an interesting character that you will be excited to play.
 
 ## Character Sheets
 You can then add your character to the [D&D Beyond campaign](https://www.dndbeyond.com/campaigns/3121548)[^2] (message DM for joining link) or transcribe it to paper. If you are using paper (which is totally fine), please send a picture of your sheet to the DM before the session.
