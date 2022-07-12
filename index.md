@@ -9,7 +9,13 @@ CasPlay is a series of whenever/wherever one-shots that coalesce into a bigger s
 ## Scheduling
 We put in our availability via Doodle, and then the DM decides when to have a session and sends out a calendar invitation with a Zoom link.
 
-If more than six people can/want to play on a particular date, whoever doesn't play that wanted to play gets priority next time. Also, players with very limited availability should be given some priority. In short, we work it out--but six is the max. for a game.
+The ideal number of players for a session is four, but sessions can be held with as few as two and as many as six players. The DM can decide how many players can participate in a session.
+
+If more than the maximum number of people can/want to play on a particular date, the easiest way to decide who plays is "first come, first served" in relation to the Doodle responses.
+
+However, whoever doesn't play that wanted to play should get priority next time. Also, players with very limited availability should be given some priority. The ideal is a healthy mix of players from session to session.
+
+In short, we work it out among friends.
 
 ## Character Generation
 The easiest way to make a character is to use the [D&D Beyond Character Builder](https://www.dndbeyond.com/characters/builder). Please use standard array or point buy rather than rolling for stats. You can use material from the PHB, any supplemental books published by WotC as desired. Please, no homebrew. It's just too hard to keep up with and ensure balance. Aim for an interesting character that you will be excited to play.
