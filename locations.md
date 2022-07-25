@@ -1,3 +1,4 @@
+[Back to main page](index.md)
 # Locations
 
 ## Map

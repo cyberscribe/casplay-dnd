@@ -1,4 +1,6 @@
+[Back to main page](index.md)
 # NPCs Encountered So Far
-**Suttar Troden** (deceased) - wererat woman who posed as owner of The Venturer's Rest and lured adventurers into a deathtrap, until defeated by several PCs
+![](images/suttar_troden_split.jpg)
+**Suttar Troden** (deceased) - wererat woman who posed as owner of The Venturer's Rest and lured adventurers into a deathtrap, defeated by PCs
 
-**Silus** - owner and proprietor of The Venturer's Rest, grateful to several PCs for rescuing him from Suttar
+**Silus** - owner and proprietor of The Venturer's Rest, grateful to PCs for rescuing him from Suttar
