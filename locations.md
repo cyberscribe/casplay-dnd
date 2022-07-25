@@ -6,4 +6,5 @@
 ## Specific Places
 
 **Helm's Hold** - Fortified city east of Neverwinter
+
 **Venturer's Rest** - Tavern in Helm's Hold known to cater to adventurers
