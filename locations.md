@@ -6,6 +6,10 @@
 
 ## Specific Places
 
-**Helm's Hold** - Fortified city east of Neverwinter
+**Helm's Hold** - Fortified city east of Neverwinter with a cathedral dedicated to Helm
 
 **Venturer's Rest** - Tavern in Helm's Hold known to cater to adventurers
+
+**Peltham** - small fur trapper village east of Helm's Hold, on the edge of Neverwinter Wood
+
+**Neverwinter Wood** - vast woodland filled with mystery, magic, and danger
