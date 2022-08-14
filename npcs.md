@@ -1,10 +1,34 @@
 [Back to main page](index.md)
 # NPCs Encountered So Far
+(In order of appearance)
 ![](images/suttar_troden_split.jpg)
 **Suttar Troden** (deceased) - wererat woman who posed as owner of The Venturer's Rest and lured adventurers into a deathtrap, defeated by PCs
 
 **Silus** - owner and proprietor of The Venturer's Rest in Helm's Hold, grateful to PCs for rescuing him from Suttar
 
 ![](images/grigor_basha.jpg)
-
 **Grigor** - attempted to trick the party into gathering Skullroot berries for him in the fur trapper village of Peltham
+
+![](images/miri_marius.jpg)
+**Miri/Marius** - street urchin in Helm's Hold, played Grigor's ailing "son" when Grigor attempted to trick the party into gathering Skullroot berries
+
+![](images/rangrim_brawnanvil.jpg)
+**Rangrim Brawnanvil** - dwarven blacksmith in Helm's Hold, suspicious of adventurers, refuses to forge weapons but will repair armour
+
+![](images/reed_goodbarrel.jpg)
+**Reed Goodbarrel** - halfling gambler accidentally injured by Piet
+
+![](images/cora_goodbarrel.jpg)
+**Cora Goodbarrel** - halfling acolyte of Helm, local healer, sister to Reed
+
+![](images/mol_the_pious.jpg)
+**Mol the Pious** - priest of Helm
+
+![](images/alethra_moonwhisper.jpg)
+**Alethra Moonwhisper** - elven traveller, concerned the local logging camps are disrespecting the natural world
+
+![](images/ketoth_troden.jpg)
+**Ketoth Troden** - knight, brother of Suttar, keen to find out what happened to her
+
+![](images/arizma_wen.jpg)
+**Arizma Wen** - mercenery (Zhentarim), owner of Clangianthus the clockwork dragon
