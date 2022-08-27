@@ -1,3 +1,3 @@
 [Back to main page](index.md)
 # Major Plot Points
-No plot yet. Just CasPlay.
+An evil cult called The Deniers of Form tried to destroy The Moonglade. They seem to revere shapeshifters.

@@ -13,3 +13,5 @@
 **Peltham** - small fur trapper village east of Helm's Hold, on the edge of Neverwinter Wood
 
 **Neverwinter Wood** - vast woodland filled with mystery, magic, and danger
+
+**The Moonglade** -- a magical clearing in Neverwinter Wood where items can be imbued with magic during the full moon. Guarded by powerful centaurs

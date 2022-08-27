@@ -32,3 +32,5 @@
 
 ![](images/arizma_wen.jpg)
 **Arizma Wen** - mercenery (Zhentarim), owner of Clangianthus the clockwork dragon
+
+**Ilikan** -- leader of a tribe of centurs who guard The Moonglade in Neverwinter Wood
