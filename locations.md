@@ -15,3 +15,5 @@
 **Neverwinter Wood** - vast woodland filled with mystery, magic, and danger
 
 **The Moonglade** -- a magical clearing in Neverwinter Wood where items can be imbued with magic during the full moon. Guarded by powerful centaurs
+
+The Ring of Helm -- revered as a "ring of Helm's chaimail" that fell to Faerûn, actually the escape pod of Horatio

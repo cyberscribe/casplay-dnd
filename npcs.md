@@ -35,3 +35,6 @@
 
 ![](images/ilikan.jpg)
 **Ilikan** - leader of a tribe of centurs who guard The Moonglade in Neverwinter Wood
+
+![](images/horatio_arcanolius.png)
+**Horatio Arcanolius** - captain of "the Fastbrite" - a ship capable of intersetllar travel, jettisoned into Neverwinter Wood by an escape pod ("the lifering"), seeking chardalyn crystals to refuel his ship
