@@ -16,4 +16,6 @@
 
 **The Moonglade** -- a magical clearing in Neverwinter Wood where items can be imbued with magic during the full moon. Guarded by powerful centaurs
 
-The Ring of Helm -- revered as a "ring of Helm's chaimail" that fell to Faerûn, actually the escape pod of Horatio
+**The Ring of Helm** -- revered as a "ring of Helm's chaimail" that fell to Faerûn, actually the escape pod of Horatio
+
+**Otiluke's Hall of Delights** -- a magical feasting hall in another dimension, accessible from a den of wolves, that is filled with mimics and is the gateway to Salamathur's lair

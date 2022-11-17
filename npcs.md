@@ -44,3 +44,6 @@
 
 ![](images/ivan_basha.jpg)
 **Ivan Basha** - Grigor's son, a member of the Harpers, who is looking for his father and afraid he has fallen in with a bad crowd
+
+![](images/salamathur.jpg)
+Salamathur - A magnificent being from another realm who has asked the party to root out the evil shapeshifters conspiring in and around Helm's Hold
